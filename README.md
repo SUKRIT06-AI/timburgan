@@ -1,4 +1,3 @@
-
 ## Tim's Community Chess Tournament
 
 **Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a black (solid) piece.
